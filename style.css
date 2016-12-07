@@ -31,9 +31,6 @@ a:hover {
 ul {
   list-style:none;
 }
-footer {
-  min-width: 100vw;
-}
 #cat {
   text-decoration: underline;
   font-size: 1em;
